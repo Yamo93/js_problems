@@ -1,5 +1,5 @@
 ## What is this Repo?
-    This repo consists of various algorithmic problems in TypeScript with associated test files that verify the correctness of the algorithms.
+This repo consists of various algorithmic problems in TypeScript with associated test files that verify the correctness of the algorithms.
 
 ## Getting Started
 
