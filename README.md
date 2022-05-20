@@ -3,7 +3,7 @@ This repo consists of various algorithmic problems in TypeScript with associated
 
 ## Getting Started
 
-1. Clone the repository.
+1. Fork the repository.
 2. Install the dependencies with `npm install`.
 3. Checkout a branch with the problem name as the branch name, for example: `git checkout -b add_digits`.
 4. Read the associated readme file.
